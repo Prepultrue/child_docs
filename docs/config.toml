@@ -1,4 +1,4 @@
 [module]
 [[module.mounts]]
-source = "content/Tasks"
-target = "content/docs/Tasks"
+source = "content"
+target = "content/docs"
