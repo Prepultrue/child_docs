@@ -16,4 +16,5 @@ jobs:
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          repository: Prepultrue/Prepultrue.github.io
           event-type: test-event
